@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d19af789-0ccf-44fe-8a21-d0cf95879582/resourceGroups/MercadoPoupanca/providers/Microsoft.Web/sites/mercadopoupanca",
+    "appService.deploySubpath": "."
+}
